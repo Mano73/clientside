@@ -1,0 +1,42 @@
+.logincss{
+    background-color:fff;
+    width: 500px;
+    margin: auto;
+    padding: 100px;
+    box-shadow: 0px 0px 5px #474849;
+}
+.logincss1{
+    color:#000;
+    
+}
+.logincss2{
+    color:#000;
+}
+.logincss3{
+    color:#000;
+
+}
+.logincss4{
+    background:#0b5daf;
+    color:#fff;
+}
+.reg1{
+    background-color: rgb(4, 54, 4);
+    width: 500px;
+    margin: auto;
+    padding: 100px;
+    box-shadow: 0px 0px 5px purple;
+}
+.reg2{
+    color:rgb(230, 165, 25)
+}
+.user1{
+    background-color: rgb(4, 54, 4);
+    width: 500px;
+    height: auto;
+    margin: auto;
+    padding: 100px;
+}
+.user2{
+    background-color: rgb(23, 105, 23);
+}
